@@ -1,0 +1,17 @@
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.Form1.resources
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.PieChartControl.resources
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.csproj.GenerateResource.cache
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.AssemblyInfoInputs.cache
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.AssemblyInfo.cs
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\bin\Debug\net8.0-windows\PieGraph.exe
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\bin\Debug\net8.0-windows\PieGraph.deps.json
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\bin\Debug\net8.0-windows\PieGraph.runtimeconfig.json
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\bin\Debug\net8.0-windows\PieGraph.dll
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\bin\Debug\net8.0-windows\PieGraph.pdb
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.dll
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\refint\PieGraph.dll
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.pdb
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\PieGraph.genruntimeconfig.cache
+C:\Users\Stephanie\Desktop\Software Development\Term 3\SODV2101 - Rapid Application Development\Assignment\Assignment 2\PieGraph\PieGraph\obj\Debug\net8.0-windows\ref\PieGraph.dll
