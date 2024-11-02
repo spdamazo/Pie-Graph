@@ -1,5 +1,7 @@
 # Pie-Graph
 
+Name: Stephanie Maru 
+Course: SODV2101 - Rapid Application Development
 Assignment 2: Graphs
 Overview
 Create a custom control that draws a graph of your choice.
